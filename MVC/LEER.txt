@@ -1,0 +1,8 @@
+Para iniciar como administrador existe una cuenta con los siguientes datos
+
+sebas@gmail.com
+Sebas.2023
+
+igualmente es posible cambiar el rol desde la base de datos, para iniciar como cliente solamente es necesario registrarse.
+
+la base de datos colegio1, deben importarla para que el programa funcione.
